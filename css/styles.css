@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  width: 100%;
+}
+
+.column-left {
+  float: left;
+  width: 25%;
+  margin: 1%;
+  padding: 3%;
+  background-color: #eeeeee;
+}
+
+.column-center {
+  float: left;
+  width: 25%;
+  margin: 1%;
+  padding: 3%;
+  background-color: #eeeeee;
+}
+
+.column-right {
+  float: left;
+  width: 25%;
+  margin: 1%;
+  padding: 3%;
+  background-color: #eeeeee;
+}
+
+div p {
+  width: 70%;
+}
